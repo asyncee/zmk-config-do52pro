@@ -14,8 +14,8 @@
 ---
 include:
   - board: nrfmicro_13
-    shield: do52pro_tp_left 
+    shield: do52pro_left 
   - board: nrfmicro_13
-    shield: do52pro_tp_right
+    shield: do52pro_right
   - board: nrfmicro_13
     shield: settings_reset
