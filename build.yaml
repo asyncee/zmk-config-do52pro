@@ -15,7 +15,6 @@
 include:
   - board: nrfmicro_13
     shield: do52pro_left 
-    snippet: zmk-usb-logging
   - board: nrfmicro_13
     shield: do52pro_right
   - board: nrfmicro_13
