@@ -15,6 +15,9 @@
 &kp CAPSLOCK  &kp A           &kp S              &kp D             &kp F            &kp G       &kp H      &kp J     &kp K       &kp L    &kp SEMI       &out OUT_BLE
 &kp LSHFT     &kp Z           &kp X              &kp C             &kp V            &kp B       &kp N      &kp M     &kp COMMA   &kp DOT  &kp FSLH       &kp RSHFT
 &kp LCTRL     &kp LEFT_ALT                                         &trans           &kp SPACE   &kp SPACE  &kp M                         &kp RIGHT_ALT  &kp ENTER
+                                                                   &kp 1
+                                                             &kp 4 &kp 5 &kp 2
+                                                                   &kp 3
             >;
         };
     };
